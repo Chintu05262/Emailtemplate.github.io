@@ -8,7 +8,7 @@
 }
 .banner_wrapper {
     /* background-image: url(/image/banner.jpg); */
-    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.7)), url(/image/banner.jpg);
+    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.7)), url(./image/banner.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 150px 0 40px 50px;
@@ -64,7 +64,7 @@
 }
 
 .why_wrapper{
-    background: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.9)), url(/image/candy-banner.jpg);
+    background: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.9)), url(./image/candy-banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
